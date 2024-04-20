@@ -170,6 +170,7 @@ color: black;
     filter: grayscale(1);
     transition: all 1s;
     animation: scaleImage 5s linear Infinite;
+
    }
 
    .user-image img{
