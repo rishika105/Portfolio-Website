@@ -19,6 +19,6 @@ This is a portfolio website for Rishika Agarwal, a software developer. The websi
 1. Clone the repository:
    ```bash
    git clone https://github.com/rishika105/Portfolio-Website.git
-2. Open ```bash portfolio.html in your web browser.
+2. Open portfolio.html in your web browser.
 
 
